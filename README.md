@@ -7,3 +7,7 @@ This work is part of nips paper reproducibility [challenge](https://nurture.ai/p
 - Approach poision the target variable with small amount of noise
 - Fast Gradient Sign used for attacks 
 
+# Setup
+- Download MNIST
+- Build CNN (X, Y)
+-
